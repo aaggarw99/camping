@@ -1087,3 +1087,17 @@ a:hover, a:active {
 .single-page .entry-header .byline .date-format a {
     color: #bfbfbf;
 }
+
+.journal_page {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#day {
+  font-size: 32px;
+  text-decoration: underline;
+}
+
+#journal_content {
+  text-align: left;
+}
