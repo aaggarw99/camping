@@ -1091,13 +1091,15 @@ a:hover, a:active {
 .journal_page {
   text-align: center;
   margin-top: 20px;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 #day {
-  font-size: 32px;
-  text-decoration: underline;
+  font-size: 36px;
 }
 
 #journal_content {
   text-align: left;
+  font-size: 26px;
 }
